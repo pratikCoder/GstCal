@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gst-calculator
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pratik
+Implementation-Vendor-Id: com.prass
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gst-calculator
+Created-By: Maven Integration for Eclipse
+
